@@ -3,7 +3,7 @@ $(function() {
         autoplay:true,
         dots:true,
         arrows:true,
-        prevArrow:'<i class="fas fa-arrow-left arrow-icon-left">A</i>',
-        nextArrow:'<i class="fas fa-arrow-right arrow-icon-right">B</i>'
+        prevArrow:'<i class="fas fa-arrow-left arrow-icon-left"></i>',
+        nextArrow:'<i class="fas fa-arrow-right arrow-icon-right"></i>'
     });
 });
